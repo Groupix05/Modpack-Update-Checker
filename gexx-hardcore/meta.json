@@ -4,11 +4,23 @@
   "versions": [
     {
       "id": "1.1.4",
-      "releasedAt": 1739105800000
+      "releasedAt": 1739105800000,
+      "promotions": {
+          "downloads": {
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/gexx-hardcore"
+          }
+      },
+      "updateType": "minor"
     },
     {
       "id": "1.1.5",
-      "releasedAt": 1739105873311
+      "releasedAt": 1739105873311,
+      "promotions": {
+          "downloads": {
+              "curseforge": "https://www.curseforge.com/minecraft/modpacks/gexx-hardcore"
+          }
+      },
+      "updateType": "minor"
     }
   ]
 }
