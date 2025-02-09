@@ -4,6 +4,7 @@
 - Added Valkyrien Pirates
 - Added Valkyrien relogs
 - Added Modpack update Checker
+- Changed version of Mowzies Delight to 1.1.2.4
 - Updated L_Ender's Cataclysm
 - Updated Loot Integrations: Medieval Buildings & End
 - Updated MEED
