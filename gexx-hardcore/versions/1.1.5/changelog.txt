@@ -1,0 +1,9 @@
+- Added Valkyrien Skies 2
+- Added Clockwork
+- Added Eureka
+- Added Valkyrien Pirates
+- Added Valkyrien relogs
+- Added Modpack update Checker
+- Updated L_Ender's Cataclysm
+- Updated Loot Integrations: Medieval Buildings & End
+- Updated MEED
