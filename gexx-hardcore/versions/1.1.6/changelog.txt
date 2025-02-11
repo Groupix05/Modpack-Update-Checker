@@ -1,0 +1,15 @@
+- Removed Clockwork
+- Removed Eureka
+- Removed Valkyrien Skies 2
+- Updated JustLeveling Fork
+- Updated Moonlight Lib
+- Updated Yungs Structures Addon for Loot Integration
+- Updated Every Compat Stone
+- Updated Every Compat Wood
+- Updated Traveler's Backpack
+- Updated Loot Integration: When Dungeons Arise & Co
+- Updated Collective
+- Updated Neko's Enchanted Books
+- Updated Not Enough Animations
+- Updated Mowzie's Mobs
+- Updated Mowzie's Delight
