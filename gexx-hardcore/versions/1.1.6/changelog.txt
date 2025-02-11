@@ -1,6 +1,9 @@
 - Removed Clockwork
 - Removed Eureka
 - Removed Valkyrien Skies 2
+- Removed ModernFix
+- Removed Tickrate API
+- Changed Cataclysm Apotheosis Addon Lite with the normal version (60)
 - Updated JustLeveling Fork
 - Updated Moonlight Lib
 - Updated Yungs Structures Addon for Loot Integration
