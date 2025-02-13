@@ -1,0 +1,11 @@
+- Updated JustLeveling Fork
+- Updated Collective
+- Updated Moonlight Lib
+- Updated Enhanced AI
+- Updated Healing Campfire
+- Updated Fire Spread Tweaks
+- Updated Enchant with Mob
+- Updated Advancements Plaques
+- Updated Brutal Bosses
+- Updated FancyMenu
+- Updated Full Brightness Toggle
