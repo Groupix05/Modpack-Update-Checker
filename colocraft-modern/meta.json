@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "2.7.8",
+      "releasedAt": 1717052800000,
+      "updateType": "major"
+    },
+    {
+      "id": "3.0.0",
+      "releasedAt": 1753658591341,
+      "updateType": "incompatible"
+    }
+  ]
+}

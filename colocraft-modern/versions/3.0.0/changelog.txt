@@ -1,0 +1,405 @@
+- Changed Terrablender Forge with TerraBlender Fabric
+- Changed Enhanced Boss Bar to the mod version
+
+- Removed Comforts
+- Removed Raided
+- Removed Bliss Shaders
+- Removed Better Third Person
+- Removed Croptopia
+- Removed Croptopia Delight
+- Removed Divine Weaponry
+- Removed DoesPotatoesTick? (incompatible with Valkyrien Skies)
+- Removed Enemy Expansion
+- Removed EphoroLib
+- Removed ExtraSounds
+- Removed Icon Journey
+- Removed JourneyMap Extended Mob Icons
+- Removed Let's Do Bakery
+- Removed Let's Do Beachparty
+- Removed Let's Do Candlelight
+- Removed Let's Do HerbalBrews
+- Removed MC Dungeons Armors
+- Removed MC Dungeons Weapons
+- Removed MCEF
+- Removed Panda Falling Trees (incompatible with Dynamic Trees)
+- Removed PandaLib
+- Removed Shield Expansion
+- Removed Simple Weapons for Better Combat
+- Removed Subnautica Flow
+- Removed WebDisplays
+- Removed Create Editions
+- Removed Max Enchant X
+- Removed More Enchantments
+- Removed ObsidianUI
+- Removed RyoamicLights
+- Removed Illager Raid Music
+- Removed Let's Do Addon Compat
+- Removed Let's Do Addon Fluids
+- Removed Let's Do Addon Structures
+- Removed Let's Do API
+- Removed Let's Do Meadow
+- Removed Let's Do NetherVinery
+- Removed Let's Do Vinery
+- Removed Let's Do Brewery
+- Removed Endless Biomes
+- Removed All the Trims
+- Removed Dynamic Trim
+- Removed Create: Villagerology
+- Removed Ad Astra
+- Remvoed Ad Astra: Giselle Addon
+- Removed The Outer End
+- Removed Realm RPG: Fallen Adventurers
+- Removed Realm RPG: Quests & Rewards
+- Removed Raised
+- Removed Create Track Map
+- Removed Immersive Paintings
+- Removed Embeddium Extra
+- Removed Domestication Innovation
+- Removed Repurposed Structures + Addons
+- Removed First Person model
+- Removed Blur
+- Removed EMI
+- Removed EMI Enchanting
+- Removed EMI Loot
+- Removed EMI Trades
+- Removed PMMO Vinery compat
+- Removed Immersive Ores
+- Removed Immersive Armors
+- Removed Enhanced Celestials
+- Removed Silent Gear
+- Removed Silent Gear Compat
+- Removed Silent Gems
+- Removed Create: Enchantment Industry
+- Removed Create: Steam 'n' Rails
+- Removed Create: Crafts & Additions
+- Removed Etched
+- Removed DnT Ancient City Overhaul
+- Removed Anvil Never too Expensive (now in Apotheosis)
+- Removed Create: CopyCats+
+- Removed SimpleOres
+- Removed Netherrock
+- Removed BetterCombat
+- Removed Ice and Fire Dragons X Better Combat
+- Removed Better Combat X Apotheosis Compat
+- Removed Better Farmer's Combat
+- Removed Aqua Combat
+- Removed Illager Invasion Combat
+- Removed Cataclysmic Combat
+- Removed Tetratic Combat Expanded
+- Removed Better Mob Combat
+- Removed MIMI
+- Removed Lucky Block
+- Removed Nicer Skies
+- Removed Main Menu Credits
+- Removed Create: Addon Compatibility (useless)
+- Removed Create Central Kitchen
+- Removed Clockwork (not compatible with Create 6.0.0)
+- Removed Create Connected (will be re-added once updated for 6.0.0)
+- Removed Create: Wizardry (not compatible with create 6.0.0)
+- Removed Tectonic
+- Removed Difficult Raids - Compatibility Edition
+- Removed Dungeons Enchantements
+- Removed Ender Zoology
+- Removed Chunk Fade In
+- Removed Durt's Nether Dungeons
+- Removed Nether Exoticism
+- Removed Pam's Suite
+
+- Added Sounds
+- Added Auditory
+- Added Euphonium
+- Added Flevorium
+- Added Underground Rivers
+- Added Twilight Aether
+- Added Alex's Caves Delight
+- Added Additional Attributes (lib)
+- Added Apotheosis
+- Added Apotheosis Ascended
+- Added Apotheosis Delight
+- Added Apotheotic Additions
+- Added Apotheotic Amendments + Mutant Heads + Supplementaries
+- Added Apothic Attributes (lib)
+- Added Apothic Curios
+- Added Chunky
+- Added CoFH Core (lib)
+-(shaders) Added Complementary Shaders - Reimagined
+-(shaders) Added Complementary Shaders - Unbound
+- Added Create Mechanical Extruder
+- Added Create: Dynamic Lights
+- Added Create: Power Loader
+- Added DespawnTweaker
+- Added Difficult Caves
+- Added Difficult Spawners
+- Added Dynamic Trees
+- Added Dynamic Trees +
+- Added Dynamic Trees Aether
+- Added Dynamic Trees Alex's Mobs
+- Added Dynamic Trees Biomes O' Plenty
+- Added Dynamic Trees Create Compat
+- Added Dynamic Trees Quark
+- Added Dynamic Trees Twilight Forest
+- Added Dynamic Trees Upgrade Aquatic
+- Added Dynamic Trees Jaden's Nether Expansion
+- Added Ensorcellation
+- Added Farmers Structures
+- Added Faster Random (Fabric)
+- Added Feature Recycler
+- Added Ice and Fire: Spellbooks
+- Added Illager Invasion combat
+- Added Illages Wear Armor
+- Added Integrated Villages
+- Added Load my F***ing Tags
+- Added Modpack Update Checker (NEED TO BE CONFIGURED)
+- Added Mob Player Animator (lib)
+- Added Nature's Spirit
+- Added Overloaded Armor Bar
+- Added Project MMO: Iron's Spellbooks Compat
+- Added Sparse Structures Reforged
+- Added Spartan Shields
+- Added Stony Cliffs Are Cool
+- Added T.O Magic 'n Extras - Iron's Spells Addon
+- Added Umbral Skies
+- Added Valkyrien Pirates
+- Added YUNG's Cave Biomes
+- Added Yung Structures Addon for Loot Integrations
+-(config) Added Bosses of Mass Destruction config
+-(config) Added Dragon fight config
+-(config) Added Tons of enchantments
+- Added Fzzy Config (lib)
+- Added Biomes O' Plenty Delight
+- Added Born in Chaos Delight
+- Added Friends&Foes Delight
+- Added Client Crafting
+- Added Celestisynth: Wishes and Hells
+- Added Combat Roll
+- Added EEEAB's Mobs
+- Added Simple Clouds
+- Added Configured Defaults
+- Added Loot Integrations: L_Ender's Cataclysm
+- Added Loot Integrations: Awesome Dungeon
+- Added JadeColonies
+- Added Nicer Skies
+- Added Lunar
+- Added Redirector
+- Added Auto Leveling
+- Added Passive Skill Tree
+- Added Jaden's Nether Expansion
+- Added Spice of life Onion
+- Added Squid No Glitch
+- Added Fish No Stuck
+- Added Gobber
+- Added Iron's RPG Tweaks
+- Added Iron's Spells Delight
+-(config) Added Ice and Fire common config
+-(config) Added Idas config
+- Added Corpse X Curios API
+- Added Regions Unexplored
+- Added Dynamic Trees - Regions Unexplored
+- Added Regions Unexplored Delight
+- Added Enigmatic Legacy
+- Added Enigmatic Addons
+- Added Enigmatic Legacy Delight
+- Added Demi's Enigmatic Dice
+- Added Particle Core
+- Added AAA Particles: World
+- Added Gobber Delight
+- Added Stellar View
+- Added Loot Integrations: Moog's Structures
+- Added Loot Integrations: When Dungeons Arise & Co
+- Added Loot Integrations: It Takes a Pillage
+- Added Loot Integrations: Towns and Towers
+- Added Loot Integrations: Integrated Suite
+- Added Loot Integrations: Medieval Buildings
+- Added Loot Integrations: Dungeons & Taverns
+- Added Loot Integrations: Dungeon Crawl
+- Added Loot Integrations: Ice and Fire
+- Added Dungeon Crawl
+- Added Medieval Buildings + End
+- Added It Takes a Pillage
+- Added Illage and Spillage: Respillaged
+- Added GSOC
+- Added Oreganized
+- Added Galosphere: Spellbooks
+- Added Alex's Caves: Stuff & Torpedoes
+- Added Ice and Fire patcher
+- Added Ice and Fire Delight
+- Added Spelunkery
+- Added Feur Fossil
+- Added Feur Magic
+- Added Legendary Tabs
+- Added Enhanced Hordes
+- Added Dungeons Enhanced
+- Added Loot Integrations Dungeons Enhanced
+- Added The Ink Arena
+- Added Mowzie's Cataclysm
+- Added Ice and Fire: Dragonsteel + datapack
+- Added Rainbow Reef
+
+- Updated Forge to 47.4.0
+- Updated Ambient Additions
+- Updated Advancement Plaques
+- Updated Aether Addon: Treasure Reforging
+- Updated Alex's Caves
+- Updated Alex's Mobs
+- Updated Alex's Mobs Interaction
+- Updated Almost Unified
+- Updated AmbientSounds 6
+- Updated Amendments
+- Updated Aquaculture 2
+- Updated Artifacts
+- Updated AtomicStryker's Infernal Mobs
+- Updated BadOptimizations
+- Updated Bagus Lib
+- Updated Balm
+- Updated Better Advancements
+- Updated Biome Music
+- Updated Biomes O Plenty
+- Updated BisectHosting Server Integration
+- Updated Born In Chaos
+- Updated Botarium
+- Updated BucketLib
+- Updated Blueprint
+- Updated Controllable
+- Updated Citadel
+- Updated Cloth Config API
+- Updated Collective
+- Updated Connectivity
+- Updated CorgiLib
+- Updated Corpse
+- Updated Create
+- Updated Create Planetary Tweaks
+- Updated Create Slice & Dice
+- Updated Create Stuff & Additions
+- Updated CreativeCore
+- Updated Cristel Lib
+- Updated Cupboard
+- Updated Curios API
+- Updated Deep Aether
+- Updated Delightful
+- Updated Despawning Eggs Hatch
+- Updated Distant Horizons
+- Updated Drippy Loading Screen
+- Updated Elytra Slot
+- Updated Embeddium
+- Updated Embeddium++
+- Updated Enchanting Infuser
+- Updated Enchantment Descriptions
+- Updated End's Delight
+- Updated Entity Culling
+- Updated Essential
+- Updated Every Compat
+- Updated Explorify - Dungeons & Structures
+- Updated Extra Compat
+- Updated FTB Library
+- Updated FTB Quests
+- Updated FTB Quests Optimizer
+- Updated FTB XMod Compat
+- Updated FTB Teams
+- Updated Fabric Language Kotlin
+- Updated FancyMenu
+- Updated Farmer's Delight
+- Updated Fish of Thieves
+- Updated Fixed Anvil Repair Cost
+- Updated Forgery
+- Updated Forgified Fabric API
+- Updated Framework
+- Updated Friends&Foes
+- Updated GeckoLib
+- Updated Guard Villagers
+- Updated Harvest with ease
+- Updated Husk Spawn
+- Updated Ice and Fire: Dragons
+- Updated Iceberg
+- Updated Illager Invasion
+- Updated ImmediatlyFast
+- Updated InsaneLib
+- Updated Integrated Dungeons and Structures
+- Updated Integrated Stronghold
+- Updated Integrated API
+- Updated Inventory Profiles Next
+- Updated Iris & Oculus Flywheel Compat
+- Updated Iron's Spells 'n Spellbooks
+- Updated Iron's Spells' Recipe Additions
+- Updated JEED
+- Updated JEI
+- Updated Jade
+- Updated Jade Addons
+- Updated JourneyMap
+- Updated JourneyMap Integration
+- Updated L_Ender's Cataclysm
+- Updated MEED
+- Updated Mob Compack
+- Updated Mobs Properties Randomness
+- Updated ModernFix
+- Updated Moog's End Structures
+- Updated Moog's Voyager Structures
+- Updated Moonlight Lib
+- Updated Naturally Charged Creepers
+- Updated Necronomicon API
+- Updated Neruina
+- Updated Nether Skeletons
+- Updated Noisium
+- Updated Not Enough Animations
+- Updated Not Enough Recipe Book
+- Updated Nullscape
+- Updated Parcool!
+- Updated Piglin Proliferation
+- Updated PlayerRevive
+- Updated Project MMO
+- Updated Project MMO: Iron's Spellbooks Compat
+- Updated Puzzles Lib
+- Updated Quark
+- Updated Quests Additions
+- Updated Radium Reforged
+- Updated Resourceful Lib
+- Updated Resourceful Config
+- Updated Savage Ender Dragon
+- Updated Sinytra Connector
+- Updated Skeleton Horse Spawn
+- Updated Smarter Farmers
+- Updated Soul fire'd
+- Updated Sound Physics Remastered
+- Updated Supplementaries
+- Updated Supplementaries Squared
+- Updated Structure Essentials
+- Updated Smooth Chunk Save
+- Updated TACT
+- Updated Tax' Ocean Villager
+- Updated Tectonic
+- Updated Temporal API
+- Updated The Aether
+- Updated The Aether: Redux
+- Updated The Twilight Forest
+- Updated Traveler's Backpack
+- Updated Twilight's Flavors & Delight
+- Updated Unusual Fish
+- Updated Upgrade Aquatic
+- Updated Villager Names
+- Updated Waystones
+- Updated YUNG's API
+- Updated YetAnotherConfigLib
+- Updated You Shall Not Spawn!
+- Updated Zeta
+- Updated Zombie Horse Spawn
+- Updated Zombie Villagers From Spawner
+- Updated Neko's Enchanted Books
+- Updated Placebo
+- Updated Patchouli
+- Updated HammerLib
+- Updated Mowzie's Mobs
+- Updated TrashSlot
+- Updated Cobweb
+- Updated BiomeInfo
+- Updated Fast Async World Save
+- Updated Ksyxis
+- Updated Packet Fixer
+- Updated Polymorph
+- Updated OctoLib
+- Updated Lionfish API
+- Updated Loot Integrations
+- Updated Yung's Cave Biomes
+- Updated Login Protection
+- Updated FastSuite
+-(config) Updated Cataclysm config
+-(config) Updated FTB Quests config
+-(config) Updated Global packs config

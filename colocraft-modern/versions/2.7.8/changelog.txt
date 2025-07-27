@@ -1,0 +1,43 @@
+- Added DoesPotatoesTick?
+- Added CameraOverhaul Reforged
+- Added Serious Player Animations
+- Added First Person Model
+- Added Icon Journey Ressourcepack
+- Added JourneyMap Extented Mob Icons Ressourcepack
+- Added Presence Footsteps
+- Added Quality Sounds
+- Added Immersive Thunder
+
+- Updated The Aether: Redux
+- Updated Supplementaries
+- Updated Zeta
+- Updated Quark
+- Updated Packet Fixer
+- Updated JEI
+- Updated FTB Quests
+- Updated Iron's Spells' Recipe Additions
+- Updated Alex's Mobs Interaction
+- Updated Elytra Slot
+- Updated Ksyxis
+- Updated Enhanced Boss Bars Ressource pack
+- Updated Bookshelf
+- Updated Bad Optimizations
+- Updated CorgiLib
+- Updated Ambient Sounds 6
+- Updated Create: CopyCats+
+- Updated All the Trims
+- Updated Let's Do Vinery
+- Updated Let's Do NetherVinery
+- Updated Let's Do Candlelight
+- Updated Let's Do Brewery
+- Updated Entity Culling
+- Updated Essential
+- Updated Every Compat
+- Updated Guard Villagers
+- Updated ImmediatlyFast
+- Updated ModernFix
+- Updated Moonlight Lib
+- Updated Not Enough Animations
+- Updated Nullscape
+- Updated Subnautica Flow
+- Updated YetAnotherConfigLib
