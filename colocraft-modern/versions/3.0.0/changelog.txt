@@ -1,8 +1,8 @@
+3.0.0
 - Changed Terrablender Forge with TerraBlender Fabric
 - Changed Enhanced Boss Bar to the mod version
 
 - Removed Comforts
-- Removed Raided
 - Removed Bliss Shaders
 - Removed Better Third Person
 - Removed Croptopia
@@ -43,10 +43,9 @@
 - Removed Let's Do Brewery
 - Removed Endless Biomes
 - Removed All the Trims
-- Removed Dynamic Trim
 - Removed Create: Villagerology
 - Removed Ad Astra
-- Remvoed Ad Astra: Giselle Addon
+- Removed Ad Astra: Giselle Addon
 - Removed The Outer End
 - Removed Realm RPG: Fallen Adventurers
 - Removed Realm RPG: Quests & Rewards
@@ -58,10 +57,6 @@
 - Removed Repurposed Structures + Addons
 - Removed First Person model
 - Removed Blur
-- Removed EMI
-- Removed EMI Enchanting
-- Removed EMI Loot
-- Removed EMI Trades
 - Removed PMMO Vinery compat
 - Removed Immersive Ores
 - Removed Immersive Armors
@@ -94,10 +89,7 @@
 - Removed Create: Addon Compatibility (useless)
 - Removed Create Central Kitchen
 - Removed Clockwork (not compatible with Create 6.0.0)
-- Removed Create Connected (will be re-added once updated for 6.0.0)
-- Removed Create: Wizardry (not compatible with create 6.0.0)
 - Removed Tectonic
-- Removed Difficult Raids - Compatibility Edition
 - Removed Dungeons Enchantements
 - Removed Ender Zoology
 - Removed Chunk Fade In
@@ -122,8 +114,8 @@
 - Added Apothic Curios
 - Added Chunky
 - Added CoFH Core (lib)
--(shaders) Added Complementary Shaders - Reimagined
--(shaders) Added Complementary Shaders - Unbound
+-(shaders)(not compatible at the moment) Added Complementary Shaders - Reimagined
+-(shaders)(not compatible at the moment) Added Complementary Shaders - Unbound
 - Added Create Mechanical Extruder
 - Added Create: Dynamic Lights
 - Added Create: Power Loader
@@ -201,7 +193,6 @@
 - Added Enigmatic Legacy Delight
 - Added Demi's Enigmatic Dice
 - Added Particle Core
-- Added AAA Particles: World
 - Added Gobber Delight
 - Added Stellar View
 - Added Loot Integrations: Moog's Structures
@@ -234,6 +225,9 @@
 - Added Mowzie's Cataclysm
 - Added Ice and Fire: Dragonsteel + datapack
 - Added Rainbow Reef
+- Added EMI + Addons + TooManyRecipesViewers*
+- Added Ben's Sharks
+- Added Oceanic Realms
 
 - Updated Forge to 47.4.0
 - Updated Ambient Additions
@@ -321,7 +315,6 @@
 - Updated Iron's Spells 'n Spellbooks
 - Updated Iron's Spells' Recipe Additions
 - Updated JEED
-- Updated JEI
 - Updated Jade
 - Updated Jade Addons
 - Updated JourneyMap
