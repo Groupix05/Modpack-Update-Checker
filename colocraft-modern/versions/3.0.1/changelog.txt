@@ -1,0 +1,17 @@
+- Updated EMI profressions
+- Updated Fragmentum
+- Updated Guard Villagers
+- Updated Aquaculture 2
+- Updated Essential
+- Updated Duplicationless
+- Updated Obscure tooltips
+- Updated Chloride
+- Updated BaguetteLib
+- Updated Farmers Structures
+- Updated Reactive Music
+- Updated Enhanced AI
+- Updated Crash Assistant
+- Updated FTB Library
+- Updated Kotlin for Forge
+
+- Fixed some configs

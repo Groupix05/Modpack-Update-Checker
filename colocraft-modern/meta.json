@@ -11,6 +11,11 @@
       "id": "3.0.0",
       "releasedAt": 1763061431622,
       "updateType": "incompatible"
+    },
+    {
+      "id": "3.0.1",
+      "releasedAt": 1764971737563,
+      "updateType": "minor"
     }
   ]
 }
