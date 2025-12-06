@@ -1,0 +1,5 @@
+- Removed Enhanced AI
+-(config) Changed Enhanced Mob spawner
+-(config) Changed Iron's RPG Tweaks
+- Updated Crash Assistant
+- Updated Forge to 47.4.13
